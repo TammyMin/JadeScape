@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://pcs.baidu.com/rest/2.0/pcs/file?method=download&amp;app_id=265486&amp;path=%2Fipa%2FUnity-iPhone.ipa</string>
+					<string>https://sz-download.weiyun.com/ftn_handler/5865243f3be04911b7dd99eaed6ae573976ba8adeef74766a39bc866fd03edb71704fdc6b7d2f2bca23637f62342358ee756399ff8d3533b6b31c067f6e7cde5/singhaiyi.ipa?fname=singhaiyi.ipa&from=30013&version=3.3.3.3</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.mixgo.building054</string>
+				<string>com.mixgo.Building143</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>JadeScape</string>
+				<string>Singhaiyi</string>
 				<key>title</key>
-				<string>JadeScape</string>
+				<string>Singhaiyi</string>
 			</dict>
 		</dict>
 	</array>
